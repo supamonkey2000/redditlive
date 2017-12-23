@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="redditlive:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/redditlive_jar</output-path>
+    <root id="archive" name="redditlive.jar">
+      <element id="module-output" name="redditlive" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jsoup-1.10.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
